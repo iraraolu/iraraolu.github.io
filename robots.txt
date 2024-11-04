@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iraraolu.github.io/OGC/sitemap_index.txt
+Sitemap: https://iraraolu.github.io/Uno/sitemap_index.txt
+Sitemap: https://iraraolu.github.io/btF/sitemap_index.txt
+Sitemap: https://iraraolu.github.io/qxh/sitemap_index.txt
